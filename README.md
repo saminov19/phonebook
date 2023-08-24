@@ -39,12 +39,16 @@ A simple console application for managing the phone book. This application allow
 
 
 ## Repository structure
-phonebook.py: The main application code.
-phonebook.txt: File to store contacts data (your database).
+1. phonebook.py: The main application code.
+2. phonebook.txt: File to store contacts data (your database).
 
 
 ## Author
 Sultan Aminov
+
+
+
+
 
 
 
@@ -90,8 +94,8 @@ RUS:
 
 
 ## Структура репозитория
-phonebook.py: Основной код приложения.
-phonebook.txt: Файл для хранения данных о контактах (ваша база данных).
+1. phonebook.py: Основной код приложения.
+2. phonebook.txt: Файл для хранения данных о контактах (ваша база данных).
 
 
 ## Автор
