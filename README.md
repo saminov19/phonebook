@@ -1,3 +1,55 @@
+ENG: 
+# Phonebook
+
+A simple console application for managing the phone book. This application allows you to display entries page by page, add new entries, edit existing entries, and search by characteristics.
+
+## Requirements
+
+-Python 3.x
+- Access to the console (terminal)
+- Works on all operating systems
+
+## How to start
+
+1. Clone this repository on your computer.
+
+2. Make sure you have Python 3.x installed.
+
+3. Create a file `phonebook.txt` in the project directory to store contacts data. You can start with an empty file.
+
+4. Open a terminal and change to the project directory.
+
+5. Run the application by running the following command:
+
+    ```
+    python phonebook.py
+    ```
+
+6. Select the functions you need from the menu and follow the instructions in the console.
+
+
+## Functionality
+1. Record display: You can view records page by page.
+
+2. Adding an entry: Add a new entry to the directory by entering the relevant data.
+
+3. Editing an entry: Edit an existing entry by specifying an index and updating the data.
+
+4. Search records: Search for one or more characteristics.
+
+
+## Repository structure
+phonebook.py: The main application code.
+phonebook.txt: File to store contacts data (your database).
+
+
+## Author
+Sultan Aminov
+
+
+
+
+RUS:
 # Телефонный справочник
 
 Простое консольное приложение для управления телефонным справочником. Это приложение позволяет отображать записи постранично, добавлять новые записи, редактировать существующие записи и выполнять поиск по характеристикам.
